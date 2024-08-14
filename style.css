@@ -1,0 +1,16 @@
+body{
+
+margin: 0;
+background-color: blueviolet;
+color: white;
+text-align: center;
+
+}
+
+.container{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
